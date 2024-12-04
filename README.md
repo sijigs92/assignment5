@@ -18,16 +18,19 @@ A step-by-step series of examples that tell you how to get the environment runni
 
 Go to the website https://www.anaconda.com/download/success
 Download the installer package corresponding to your Operating System( Windows, Linux, MacOS)
-![image](https://github.com/user-attachments/assets/448082a6-0236-4a60-80d5-f8146215ae1d)
+![image](https://github.com/user-attachments/assets/3c019005-5c22-4e54-97c8-055ef59f7a5c)
+
 
 
 Once downloaded, install the software. 
 Open the Anaconda application by searching from your system's search box and click on jupyter notebook from the list of options.
 
-![image](https://github.com/user-attachments/assets/071e4859-6dae-4c7d-a225-d37b6e7752ef)
+![image](https://github.com/user-attachments/assets/cee5785c-9aa2-43c1-9e86-5396dc630475)
+
 
 Alternatively, you can directly search for Jupyter Notebook on your system's search box and click on open
-![image](https://github.com/user-attachments/assets/f9b5b51e-f8ef-4305-bfbd-b1cd7e219bc9)
+![image](https://github.com/user-attachments/assets/d4587d7c-ec12-460b-a9d8-ae1377f6ce92)
+
 
 
 # Running the tests

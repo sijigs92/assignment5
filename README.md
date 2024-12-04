@@ -64,7 +64,7 @@ We use [SemVer](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#:~:text
 Siji Geetha Surendran
 
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md) file for details
 
 # Acknowledgments
 Rejoy James, Prof DATA 1202 DATA ANALYSIS TOOLS

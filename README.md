@@ -1,9 +1,9 @@
 # Assignment5
 Artificial Neural Network 
-Neural Networks are a machine learning framework that attempts to mimic the learning pattern of natural biological neural networks. Biological neural networks have interconnected neurons with dendrites that receive inputs, then based on these inputs they produce an output signal through an axon to another neuron. We will try to mimic this process through the use of Artificial Neural Networks (ANN), which we will just refer to as neural networks. The process of creating a neural network begins with the most basic form, a single perceptron.
+A machine learning framework called Neural Networks makes an effort to emulate the way that natural biological neural networks learn. Interconnected neurons with dendrites that accept inputs make up biological neural networks. These dendrites then use the inputs to generate an output signal that is sent to another neuron via an axon. Artificial Neural Networks (ANN), which we shall simply call neural networks, will be used to attempt to replicate this process. The simplest type of neural networks, a single perceptron, is the starting point for the process.
 
 # Getting Started
-These instructions will help you get this project up and running on your local machine. It is preferred that you have basic programming knowledge (preferably in Python). See the deployment section below for instructions on how to deploy the project on a live system.
+You can start this project on your local computer by following these instructions. Having a basic understanding of programming, ideally in Python, is preferred. To learn how to install the project on a live system, refer to the deployment section below.
 
 # Prerequisites
 What things do you need to install the software and how to install them
@@ -36,7 +36,7 @@ Alternatively, you can directly search for Jupyter Notebook on your system's sea
 # Running the tests
 Clone the repository using git clone "the web URL" which can be accessed by clicking the code dropdown button.
 If Git is not installed on your system, the user can opt for the download zip option.
-On the Jupyter Notebook opened in your browser, go to the cloned/downloaded folder and click the Assignment4.ipynb file.
+On the Jupyter Notebook opened in your browser, go to the cloned/downloaded folder and click the Assignment5.ipynb file.
 Execute each block of code by pressing shift + enter or pressing the play button on the bar.
 Brief Code Explanation
 Installing

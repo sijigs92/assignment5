@@ -58,7 +58,7 @@ Test your changes thoroughly.
 Create a pull request (PR) with a clear description of your contribution.
 
 # Versioning
-We use [SemVer](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#:~:text=We%20use%20SemVer%20for%20versioning.) for versioning.
+We use [SemVer](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#:~:text=We%20use%20SemVer%20for%20versioning.) for https://semver.org/ versioning.
 
 # Authors
 Siji Geetha Surendran
